@@ -40,7 +40,7 @@ This project explores a comprehensive approach to enhancing video performance th
 6) Trend Analysis between view counts over time period.
 7) Correlation analysis between like counts,comment counts and View counts.
 
-##Predictive and Sentimental Analysis
+## Predictive and Sentimental Analysis
 1) Sentiment Analysis: Applied natural language processing to viewer comments, correlating positive sentiment with higher engagement levels.
 2) Predictive Modeling with Machine Learning: Implemented Random Forests, Gradient Boosting, and Neural Networks.
 3) hyperparameter tuning and cross-validation: To optimize performance
