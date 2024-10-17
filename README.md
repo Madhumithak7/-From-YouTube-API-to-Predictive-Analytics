@@ -1,8 +1,11 @@
-# -From-YouTube-API-to-Predictive-Analytics
+# From-YouTube-API-to-Predictive-Analytics
 "From YouTube API to Predictive Analytics: Comprehensive Data Analytics and Predictive Modeling for Video Performance Optimization"
 
 
 This project explores a comprehensive approach to enhancing video performance through advanced data analytics and machine learning techniques. After Scrapping the data from the Youtube Channel "VJ Sidhu Vlogs" and Created a CSV file for futhur analysis. By integrating Exploratory Data Analysis (EDA), sentiment analysis, and a suite of predictive models—including Random Forests, Gradient Boosting, and Neural Networks this uncover key drivers of video engagement. The project includes rigorous hyperparameter tuning, cross-validation, and feature importance assessment to optimize model performance and extract actionable insights. These integrated efforts provide a robust framework for understanding and optimizing video content strategies, ultimately aiming to increase viewer engagement and success.
+
+## Reference:
+This work was inspired by the methodology presented by Thu Vu in her YouTube channel analytics project (https://github.com/thu-vu92/youtube-api-analysis/blob/main/Sample_project_youtube_videos_EDA.ipynb). However, I expanded on her foundational work by analyzing a different YouTube channel and incorporating additional analytical techniques.I created my own dataset using the Google Youtube Data API version 3.0. The default quota allocation for each application is 10,000 units per day, The data accessed through the API is public, posing no significant privacy issues.
 
 ## Objectives:
 1) Initialize the YouTube Client: Set up the YouTube Data API client to interact with YouTube data.
